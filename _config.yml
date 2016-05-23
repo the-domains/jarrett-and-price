@@ -1,0 +1,28 @@
+name: 'Jarrett & Price'
+favicon: null
+layout_spectrum: 0.23618214554153383
+typography_spectrum: 0.5096908542327583
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.76362000615336
+  lightness: 0.043658367125317454
+  saturation: 0.3168788894545287
+  rhythmicContrast: 0.07017763936892152
+purpose: []

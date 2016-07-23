@@ -19,12 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Jarrett & Price
+author:
+  name: Patrick Jarrett
+  email: contact@jarrettfirm.com
+name: Attorney Patrick Jarrett
 cta:
   domain: null
   bucket: null
   version: null
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bb24402-de5b-4090-8312-b45c39c6f159.jpg
-title: Personal Injury Attorney
+title: Injury & Immigration Attorney
 purpose: []

@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-02T18:15:41.246Z'
+datePublished: '2016-08-02T18:16:28.336Z'
 sourcePath: _posts/2016-07-25-attorney-patrick-jarrett.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/08ba5483-8de9-4d96-8862-6bd2f279d473.jpg
 author: []
 via: {}
-dateModified: '2016-08-02T18:15:40.773Z'
+dateModified: '2016-08-02T18:16:27.789Z'
 title: Attorney Patrick Jarrett
 publisher:
   name: Jarrett & Price
